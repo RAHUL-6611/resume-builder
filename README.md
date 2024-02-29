@@ -26,11 +26,6 @@ In this app, a user can make their resume by selecting a template and adding the
 3. Redux
 4. Sass
 
-## Screenshots
-
-![signup page](https://user-images.githubusercontent.com/64955243/203927052-af88fb51-df46-49fc-aa55-b265d5b87d8f.png)
-![Login page](https://user-images.githubusercontent.com/64955243/203927083-00342837-179e-4199-b922-b46f87324596.png)
-![Home page](https://user-images.githubusercontent.com/64955243/203927104-83458ba3-ce58-4ba1-b4f4-48e3c307f8cf.png)
 <!-- https://user-images.githubusercontent.com/64955243/200680500-793c3b04-e31f-4d06-8f66-fb00def065ee.mp4 -->
 
 
